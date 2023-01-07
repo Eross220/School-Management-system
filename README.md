@@ -7,7 +7,7 @@ This is a MERN stack website which can be used for managing the school. It has a
 ### `LIVE SITE`
 
 ```bash
-https://manageschool1.herokuapp.com/
+
 
 ``` 
 
